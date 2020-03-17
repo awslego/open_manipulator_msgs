@@ -1,0 +1,10 @@
+# Goal
+int32 number_of_minutes
+ 
+---
+# Result
+string[] steps_completed
+ 
+---
+# Feedback
+string last_step_completed
